@@ -1,0 +1,2 @@
+This project is about accordion only one item will open at one time & when clicked again item will be closed.
+Also use of children prop. 
